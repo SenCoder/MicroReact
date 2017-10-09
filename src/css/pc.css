@@ -17,6 +17,48 @@
     text-align: center;
 }
 
-.register{
+.register {
     float: right !important;
+}
+
+.ant-menu-horizontal>.ant-menu-item>a, .ant-menu-horizontal>.ant-menu-submenu>a {
+    display: inline-block !important;
+}
+
+.container{
+  padding-top: 10px;
+}
+
+.leftContainer {
+    width: 400px;
+    float: left;
+}
+
+.carousel {
+    width: 400px;
+    float: left;
+}
+
+.tabs_news {
+    padding-left: 10px;
+    width: 460px;
+    float: left;
+}
+
+
+
+.imageblock {
+    float: left;
+}
+
+.custom-card {
+    padding: 5px;
+}
+
+.custom-card p {
+    color: #999;
+}
+
+.register{
+  float: right !important;
 }

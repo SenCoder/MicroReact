@@ -2,8 +2,6 @@ import React from 'react';
 
 import {Row, Col, Menu, Icon, Form, Input, Button, CheckBox, Modal, Tabs, message} from 'antd';
 
-import {Link} from 'react-router';
-
 class MobileHeader extends React.Component {
 
     constructor() {

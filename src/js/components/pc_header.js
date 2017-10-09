@@ -2,8 +2,6 @@ import React from 'react';
 
 import {Row, Col, Menu, Icon, Form, Input, Button, CheckBox, Modal, Tabs, message} from 'antd';
 
-import {Link} from 'react-router';
-
 class PCHeader extends React.Component {
 
     constructor() {
