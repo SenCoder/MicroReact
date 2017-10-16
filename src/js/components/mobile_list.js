@@ -63,9 +63,9 @@ export default class MobileNewsList extends React.Component {
 
         return <div>
             <Row>
-                    <Col span={24}>
-                        {newsList}
-                    </Col>
+                <Col span={24}>
+                    {newsList}
+                </Col>
             </Row>
         </div>
     }
